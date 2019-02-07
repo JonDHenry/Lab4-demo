@@ -27,6 +27,10 @@ public class Hero extends Person
 	}
 
 	// TODO: run code first, then override toString()
+	public String toString()
+	{
+	return "";
+	}
 
 	@Override
 	public String getTaskList()
